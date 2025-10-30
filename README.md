@@ -17,7 +17,7 @@ MultiBranchPar.ipynb is main code to train the model for classification of PC an
 ### 1. Base Pipeline CNN Only
 In first experiment, we evaluate the performance of the baseline pipeline consisting only of the CNN module.
 
-### 2. Proposed pipeline: CNN + Tranformer Fusion
+### 2. Proposed pipeline: CNN + Transformer Fusion
 In the second experiment, we test the pipeline that combines both the CNN and Transformer modules. The output features from the two branches are concated and fused using a gated self-attention mechanism before being passed to the final classification layer for DP and HC
 
 # Conclusion
