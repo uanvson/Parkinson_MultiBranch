@@ -13,7 +13,7 @@ Test set: 40 recordings
 
 
 # Method
-MultiModelPar.ipynb is main code to train the model for classification of PC and HC. We conduct 2 experiments
+MultiBranchPar.ipynb is main code to train the model for classification of PC and HC. We conduct 2 experiments
 ### 1. Base Pipeline CNN Only
 In first experiment, we evaluate the performance of the baseline pipeline consisting only of the CNN module.
 
