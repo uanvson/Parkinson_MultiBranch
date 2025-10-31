@@ -1,7 +1,7 @@
 # Multi-Branch Speech Analysis for Parkinson’s Disease Detection
 https://github.com/uanvson/Parkinson_MultiBranch
 
-   ![Multi-Modal](https://raw.githubusercontent.com/uanvson/Parkinson_MultiBranch/refs/heads/main/Muli_modal_parkinson.png)
+   ![Multi-Modal](https://raw.githubusercontent.com/uanvson/Parkinson_MultiBranch/refs/heads/main/Muli_parkinson.png)
 
 This study presents a multi-branch framework that integrates a pretrained CNN module with a pretrained Transformer module. By combining the CNN’s ability to extract local time–frequency representations with the Transformer’s capability to model global contextual dependencies, the proposed approach achieves superior performance in Parkinson’s disease detection
 
